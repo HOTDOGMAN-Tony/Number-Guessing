@@ -1,3 +1,5 @@
+Play now: https://hotdogman-tony.github.io/Number-guessing/
+
 # Number-guessing guide and rules.
 
 - How to play?
