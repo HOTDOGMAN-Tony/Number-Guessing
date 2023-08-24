@@ -25,3 +25,5 @@ What I have learnt:
 1. Using git.
 2. If statement.
 3. Using functions ()
+
+V.1
