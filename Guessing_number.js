@@ -11,7 +11,8 @@ function enter() {
 
     if (input == number){
         document.querySelector ('.Result')
-          .innerHTML = ('Win, Answer is ' + `${number}`)
+          .innerHTML = ('Win, Answer is ' + `${number}` + '. number changed'); 
+          number = Math.floor (Math.random() * 100)
     } else if (input < number) {
         document.querySelector ('.Result')
           .innerHTML = ('Bigger')
