@@ -26,4 +26,4 @@ What I have learnt:
 2. If statement.
 3. Using functions ()
 
-V.1
+V0.2
